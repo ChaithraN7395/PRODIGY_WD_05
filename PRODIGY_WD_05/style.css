@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: url('Weather Image.jpg') no-repeat center center fixed; /* Set your image URL here */
+  background-size: cover;
+  color: #333;
+  padding: 20px;
+}
+
+.weather-app {
+  max-width: 500px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.8); /* Transparent background for better contrast */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #45a049;
+}
+
+.hidden {
+  display: none;
+}
+
+#extraInfo p {
+  margin: 5px 0;
+}
