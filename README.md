@@ -12,3 +12,9 @@ As part of my Web Development Internship at Prodigy Infotech, I developed a Weat
 ⚡ JavaScript - Fetching and displaying weather data dynamically
 
 🚀 This project strengthened my skills in API integration, asynchronous JavaScript (fetch API & promises), and real-time data handling. Excited to work on more dynamic web applications!
+Screenshots of Output
+![image](https://github.com/user-attachments/assets/f61034b2-1e8a-47e7-9187-85f8f8694559)
+![image](https://github.com/user-attachments/assets/b9a6c2c6-9048-453d-be27-8845375cab2e)
+![image](https://github.com/user-attachments/assets/03993ce1-58a8-477c-82e7-457d6ee88cd5)
+
+
